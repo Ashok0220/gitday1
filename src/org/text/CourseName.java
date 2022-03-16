@@ -11,5 +11,6 @@ System.out.println("python course is not started");
 		CourseName c = new CourseName();
 		c.javaCourse();
 		c.pythonCourse();
+		System.out.println("hello");
 	}
 }
